@@ -57,30 +57,5 @@
         {
             return hobbies;
         }
-
-        /*public void Walk()
-        {
-            Console.WriteLine(name + " is walking.");
-        }
-
-        public void Talk(string message)
-        {
-            Console.WriteLine(name + " says: " + message);
-        }
-
-        public void Eat(string food)
-        {
-            Console.WriteLine(name + " is eating " + food + ".");
-        }
-
-        public void Sleep()
-        {
-            Console.WriteLine(name + " is sleeping.");
-        }
-
-        public void Work(string job)
-        {
-            Console.WriteLine(name + " is working as a " + job + ".");
-        }*/
     }
 }

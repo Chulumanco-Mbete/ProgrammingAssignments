@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 2", "Assignment 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 3", "Assignment 3\Assignment 3.csproj", "{7F113FF2-34C0-445C-91DB-40A3B0CB55EF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeSubmissionConole", "..\..\TicTacToeSubmissionSln\TicTacToeSubmissionConole\TicTacToeSubmissionConole.csproj", "{1661D145-C3E0-40FC-A4A5-6DDDE3109119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToeSubmissionConole", "Assignment 4\TicTacToeSubmissionConole\TicTacToeSubmissionConole.csproj", "{80531B9C-30A9-47FD-BDF7-994CB42B38A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{7F113FF2-34C0-445C-91DB-40A3B0CB55EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F113FF2-34C0-445C-91DB-40A3B0CB55EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F113FF2-34C0-445C-91DB-40A3B0CB55EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1661D145-C3E0-40FC-A4A5-6DDDE3109119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1661D145-C3E0-40FC-A4A5-6DDDE3109119}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1661D145-C3E0-40FC-A4A5-6DDDE3109119}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1661D145-C3E0-40FC-A4A5-6DDDE3109119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80531B9C-30A9-47FD-BDF7-994CB42B38A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80531B9C-30A9-47FD-BDF7-994CB42B38A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80531B9C-30A9-47FD-BDF7-994CB42B38A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80531B9C-30A9-47FD-BDF7-994CB42B38A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

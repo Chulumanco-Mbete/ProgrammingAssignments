@@ -21,8 +21,8 @@ namespace TicTacToeSubmissionConole
 
 
             Console.SetCursorPosition(20, 25);
-            Console.WriteLine("Thank you for playing");
-            Console.ReadLine();
+            //Console.WriteLine("Thank you for playing");
+            //Console.ReadLine();
         }
     }
 }
