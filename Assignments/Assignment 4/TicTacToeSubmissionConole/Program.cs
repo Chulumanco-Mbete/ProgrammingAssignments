@@ -17,12 +17,10 @@ namespace TicTacToeSubmissionConole
             ticTacToe.Run();
 
 
-            Console.ForegroundColor = oldColor ;
-
-
+            Console.ForegroundColor = oldColor;
             Console.SetCursorPosition(20, 25);
-            //Console.WriteLine("Thank you for playing");
-            //Console.ReadLine();
+            Console.WriteLine("Thank you for playing.");
+            Console.ReadLine();
         }
     }
 }
